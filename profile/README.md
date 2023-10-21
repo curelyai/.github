@@ -4,7 +4,7 @@
 
 ## About Curely AI
 
-Curely AI is a pioneering healthcare technology company founded by Am Kaddu Livingstone. We specialize in developing Artificial General Intelligence (AGI) solutions tailored to diverse sectors. Our mission is to drive innovation and transformative change in healthcare, security, transport, agriculture, space, and business through the power of AGI.
+Curely AI is a pioneering healthcare technology company. We specialize in developing Artificial General Intelligence (AGI) solutions tailored to diverse sectors. Our mission is to drive innovation and transformative change in healthcare, security, transport, agriculture, space, and business through the power of AGI.
 
 ## Services
 
